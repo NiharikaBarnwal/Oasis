@@ -1,0 +1,25 @@
+.header
+{
+    text-align: center;
+    color: white;
+    background-color: black;
+    height: 200px;
+    padding: 20px;
+}
+.section
+{
+    text-align: center;
+    color: white;
+    background-color: black;
+    border:100px solid black;     
+    text-align:center;
+}
+.div1
+{
+    float:left;
+    width: 1035px;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    
+}

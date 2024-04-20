@@ -1,0 +1,25 @@
+.contain1{
+    align-self: center;
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 1420px;
+    height: 100px;
+    padding: 30px;
+    margin: 10px;
+}
+.img{
+    width: 1480px;
+    margin: 10px;
+    height: 600px;  
+}
+.contain2{
+    align-self: center;
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 1410px;
+    height: 190px;
+    padding: 35px;
+    margin: 10px;
+}

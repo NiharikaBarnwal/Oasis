@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    align-content: center;
+}
+#login{
+    background-color: blueviolet;
+    margin: 10px;
+    width: 400px;
+    height: 250px;
+    margin-left: 280px;
+    margin-top: 90px;
+    border-radius: 30px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 30px;
+    cursor: pointer;
+}
+#login:hover{
+    transform: scale(1.2);
+}
+#register{
+    background-color: gold;
+    margin: 10px;
+    width: 400px;
+    align-self: center;
+    height: 250px;
+    margin-top: 90px;
+    border-radius: 30px;
+    text-align: center;
+    padding-top: 80px;
+    cursor: pointer;
+}
+#register:hover{
+    transform: scale(1.2);
+}
+#heading{
+    padding-top: 100px;
+    color: white;
+}
