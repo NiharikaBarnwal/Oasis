@@ -13,11 +13,11 @@ The repository includes the following projects:
    - Supports basic arithmetic operations.
 
 2. **Form**
-   - A responsive form built using **HTML, CSS, and JavaScript**.
+   - A responsive form built using **HTML, CSS, JavaScript, PHP, and SQL**.
    - Includes form validation and user-friendly design.
 
 3. **To-Do List**
-   - A task management application developed with **JavaScript**.
+   - A task management application developed with **HTML, CSS, and JavaScript**.
    - Allows users to add, delete, and mark tasks as completed.
 
 4. **Tribute Page**
