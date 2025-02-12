@@ -36,7 +36,7 @@ The repository includes the following projects:
    ```
 2. Navigate to the project folder:
    ```sh
-   cd oasis-infobyte
+   cd Oasis
    ```
 3. Open the files in a browser or run on a local server.
 
